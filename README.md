@@ -12,7 +12,7 @@ I'm a passionate developer currently learning **Python, PHP, Laravel**, and data
 
 ## Learning & Goals
 - Deepen knowledge in Laravel & PHP  
-- Build full-stack apps with Python & Laravel  
+- Build full-stack apps with Django & Laravel  
 - Explore database optimization  
 
 ---
